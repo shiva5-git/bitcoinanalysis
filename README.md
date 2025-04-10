@@ -1,4 +1,4 @@
-# 📊 Bitcoin Data Analysis Project
+# 📊 Analysing Bitcoin Prices Project
 
 This project provides a comprehensive analysis of historical Bitcoin prices using Python libraries such as **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
 
